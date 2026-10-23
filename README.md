@@ -2,7 +2,7 @@
 
 ## Aspiring Data Analyst | Excel Specialist 
 
-I am a data enthusiast focused on transforming raw, unstructured datasets into clear, actionable business insights. I specialize in end-to-end data pipelines—from cleaning and relational mapping to statistical analysis and interactive dashboarding.
+I am a data enthusiast focused on transforming raw, unstructured datasets into clear, actionable business insights. I specialize in end-to-end data pipelines,from cleaning and relational mapping to statistical analysis and interactive dashboarding.
 
 ### 🛠️ Technical Skill Set
 * Data Engineering & Cleaning: Text standardization (TRIM/PROPER), logical categorization (IF statements), and data validation.
