@@ -11,7 +11,7 @@ I am a data enthusiast focused on transforming raw, unstructured datasets into c
 * Statistical Analysis: Utilizing Data Analysis Toolpaks to calculate variance, standard deviation, and median distributions.
 * Professional Formatting: Structuring financial and numeric data to standard accounting conventions for executive reporting.
 
-### 🚀 Featured Project
+### 🚀 Featured Project (with the exception of several others)
 [Adult Census Income Analysis](https://github.com/KingStan-KS/excel-census-analysis)
 * Objective: Cleaned and analyzed a 32,500+ record census dataset to uncover business insights regarding income disparity, education levels, and occupation profitability.
 * Key Deliverable: Built a fully interactive Executive Dashboard allowing end-users to filter demographic data dynamically.
